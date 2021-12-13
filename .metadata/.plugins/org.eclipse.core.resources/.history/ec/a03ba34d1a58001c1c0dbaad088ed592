@@ -1,0 +1,11 @@
+public class cat
+{
+	public static void main(String[] args)
+	{
+		int oAo = 50;
+		
+		String oao = "bye";
+		
+		System.out.println(oAo);
+	}
+}

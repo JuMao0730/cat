@@ -1,0 +1,15 @@
+import java.util.Scanner;
+
+public class cat
+{
+	public static void main(String[] args)
+	{
+	    float i = 1.0f;
+		
+		i /= 10;
+		
+		i *= 10;
+		
+		System.out.println(i);
+	}
+}

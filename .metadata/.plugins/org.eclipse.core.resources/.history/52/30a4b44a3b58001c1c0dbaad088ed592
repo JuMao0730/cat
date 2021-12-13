@@ -1,0 +1,14 @@
+import java.util.Scanner;
+
+public class cat
+{
+	public static void main(String[] args)
+	{
+		float owo = (float)Math.random();
+		owo *= 1000.0f;
+		
+		int qwq = (int)owo;
+		
+		System.out.println(owo);
+	}
+}

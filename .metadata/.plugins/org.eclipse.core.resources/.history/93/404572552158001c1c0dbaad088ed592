@@ -1,0 +1,23 @@
+public class cat
+{
+	public static void main(String[] args)
+	{
+		char bd = '\n';
+		
+		
+		/* cat 
+		 it's cute*/
+		int oAo = 10;
+		float qAq = 0.5f;
+		
+		float result = oAo / qAq;
+		int awa = (int) ( oAo * qAq );
+		
+		String oao = "Good" + bd + "bye";
+		
+		
+		System.out.println(oao );
+		System.out.println(awa );
+		System.out.println(bd );
+	}
+}

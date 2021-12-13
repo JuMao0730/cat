@@ -1,0 +1,17 @@
+public class cat
+{
+	public static void main(String[] args)
+	{
+		int oAo = 50;
+		float qAq = 0.5f;
+		
+		float cat = oAo / qAq;
+		int awa = (int) ( oAo * qAq );
+		
+		String oao = "Good";
+		String qaq = " bye";
+		
+		System.out.println(oao + qaq);
+		System.out.println(awa );
+	}
+}

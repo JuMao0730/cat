@@ -1,0 +1,25 @@
+public class cat
+{
+	public static void main(String[] args)
+	{
+		char bd = 's';
+		
+		
+		
+		
+		
+		
+		int oAo = 50;
+		float qAq = 0.5f;
+		
+		float result = oAo / qAq;
+		int awa = (int) ( oAo * qAq );
+		
+		String oao = "Good\nbye";
+		
+		
+		System.out.println(oao );
+		System.out.println(awa );
+		System.out.println(bd );
+	}
+}

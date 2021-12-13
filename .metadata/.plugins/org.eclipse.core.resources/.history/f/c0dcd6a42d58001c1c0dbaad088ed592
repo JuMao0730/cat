@@ -1,0 +1,75 @@
+import java.util.Scanner;
+
+public class cat
+{
+	public static void main(String[] args)
+	{
+		{
+			Scanner scanner = new Scanner(System.in);
+			
+			int owo = scanner.nextInt();
+			
+			if(owo >20)
+			{
+				System.out.println("No");
+			}
+			else
+			{
+				System.out.println("Yes");
+			}
+		}
+		{
+			boolean pig;
+			
+			int money = 100;
+			
+			pig = money < 70;
+			
+			if(pig)
+			{
+				System.out.println("Yes");
+			}
+			else
+			{
+				System.out.println("No");
+			}
+		}
+		
+		
+		{
+			Scanner scanner = new Scanner(System.in);
+			
+			float www = scanner.nextFloat();
+			
+			System.out.println(www);
+		}
+		
+		
+		
+		char bd = '\n';
+		
+		
+	
+		
+		int qwq = 6 % 4;
+		
+		
+		/* cat 
+		 it's cute*/
+		int oAo = 10;
+		float qAq = 0.5f;
+		
+		oAo++;
+		oAo--;
+		
+		float result = oAo / qAq;
+		int awa = (int) ( oAo * qAq );
+		
+		String oao = "Good" + bd + "bye";
+		
+		System.out.println(qwq);
+		System.out.println(oAo );
+		System.out.println(awa );
+		System.out.println(bd );
+	}
+}

@@ -1,0 +1,26 @@
+import java.util.Scanner;
+
+public class cat
+{
+	
+	public static void main(String[] args)
+	{
+		float owo = (float)Math.random();
+		owo *= 1000.0f;
+		
+		int qwq = (int)owo;
+		
+		Scanner scanner = new Scanner(System.in);
+		
+		int guess = scanner.nextInt();
+		
+		if(guess > qwq)
+		{
+			System.out.println("too big");
+		}
+		else if(guess < qwq)
+		{
+			System.out.println("too small");
+		}
+	}
+}
